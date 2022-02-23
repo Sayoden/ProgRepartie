@@ -1,4 +1,4 @@
-package tp1;
+package tp0;
 
 import java.io.*;
 import java.net.InetAddress;
